@@ -40,7 +40,7 @@ let Home = () => {
             <div className="left">
 
                 <h3>Hello There!</h3>
-                <h1><span>This is</span> <span>I</span>brahim <span>A</span>li </h1>
+                <h1><span>This is</span> <span>I</span>brahim.<span>A</span>f </h1>
                 <p> I`m a self-taught Fullstack developer & Graphic designer. </p>
 
                 <button onClick={handleDownload} > Get CV </button>
